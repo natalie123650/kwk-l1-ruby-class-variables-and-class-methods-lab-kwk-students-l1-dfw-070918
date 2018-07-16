@@ -1,1 +1,2 @@
-
+Song.count
+def 
